@@ -1,6 +1,9 @@
 # **My Lua work since 2016.** 
-Please note: this is still under development. I have to add all my various work over the years on GitHub. It's gonna take a while. I'll list the work I intend to include for reference. 
+Please note: this is still under development. 
 
+This is some of my code over the years from ROBLOX. I'm not including all of my recent stuff as that needs to remain private as it's currently in use in my game and I don't want it stolen. 
+
+List of stuff I plan to add:
 - Elevators
   - 2017 Variant
   - 2019 Version
